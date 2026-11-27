@@ -1,8 +1,8 @@
-# makefun-x-reposts
+# makefun-entry · X reposts round
 
 [![make.fun · makefun-x-reposts-02](https://make.fun/badge/makefun-x-reposts-02.svg)](https://make.fun/bounty/makefun-x-reposts-02?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
-[![rank](https://make.fun/badge/makefun-x-reposts-02/huy112410-coder/makefun-x-reposts/rank.svg)](https://make.fun/bounty/makefun-x-reposts-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
-[![reward](https://make.fun/badge/makefun-x-reposts-02/huy112410-coder/makefun-x-reposts/reward.svg)](https://make.fun/bounty/makefun-x-reposts-02?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
+[![rank](https://make.fun/badge/makefun-x-reposts-02/huy112410-coder/makefun-entry/rank.svg)](https://make.fun/bounty/makefun-x-reposts-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
+[![reward](https://make.fun/badge/makefun-x-reposts-02/huy112410-coder/makefun-entry/reward.svg)](https://make.fun/bounty/makefun-x-reposts-02?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
 
 Entry for make.fun's [Get the most reposts and likes on make.fun's newest X posts](https://make.fun/bounty/makefun-x-reposts-02).
 
